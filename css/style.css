@@ -1,0 +1,28 @@
+body{
+    background:rgb(1, 17, 22);
+    text-align: center    
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: white;
+}
+p{
+    color:white
+}
+a{
+    color: rgb(255, 255, 255)
+}
+footer{
+    color: aliceblue;
+    text-align: right
+}
+nav{
+    text-align: left
+}
+img{
+    border-radius: 5px;
+    margin-top: 30px;
+}
